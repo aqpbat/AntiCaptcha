@@ -9,13 +9,13 @@
     <PackageLicenseUrl></PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/Zaczero/AntiCaptcha</PackageProjectUrl>
     <PackageIconUrl></PackageIconUrl>
-    <Version>1.4.1</Version>
-    <PackageVersion>1.4.2</PackageVersion>
+    <Version>1.4.3</Version>
+    <PackageVersion>1.4.3</PackageVersion>
     <PackageTags>anticaptcha, captcha, solver, google, recaptcha, hcaptcha, geetest, text, image, wrapper, api</PackageTags>
     <PackageId>AntiCaptchaAPI</PackageId>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <AssemblyVersion>1.4.2.0</AssemblyVersion>
-    <FileVersion>1.4.2.0</FileVersion>
+    <AssemblyVersion>1.4.3.0</AssemblyVersion>
+    <FileVersion>1.4.3.0</FileVersion>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/Zaczero/AntiCaptcha</RepositoryUrl>
     <PackageIcon>AntiCaptcha.png</PackageIcon>

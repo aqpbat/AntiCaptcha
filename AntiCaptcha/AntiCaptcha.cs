@@ -115,6 +115,7 @@ namespace AntiCaptchaAPI
 			int minLength = 0, 
 			int maxLength = 0, 
 			string comment = null,
+			string languagePool = "en",
 			CancellationToken cancellationToken = default)
 		{
 			var result = await Solve(5, new Dictionary<string, object>
@@ -130,6 +131,7 @@ namespace AntiCaptchaAPI
 							{"minLength", minLength},
 							{"maxLength", maxLength},
 							{"comment", comment},
+							{"languagePool", languagePool}
 						}
 					}
 				}, cancellationToken).ConfigureAwait(false);
